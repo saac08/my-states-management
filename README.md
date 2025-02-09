@@ -1,14 +1,24 @@
-# React + Vite | Formas de manejar el estado y contexto de una aplicación
+# My Learning Project 🚀
 
-Primero debemos generar una carpeta llamada /contexts
-Posterior creamos el contexto, por nomenclatura: nombre.context.jsx/tsx
-Creamos el contexto, ya sea de variables simples o de estado
-Posterior envolvemos el main en el contextWrapper que hayamos creado
-Posterior a ello envíamos a llamar el context donde más nos convenga
+Aplicación para poder probar, implementar nuevas cosas, y echar a perder aprendiendo.
 
-## Lazy loading
+## ✨ Características
 
-Es una técnica con la que podemos cargar los componentes
-de una forma más rígida y además, sin tomar mucho tiempo de renderizado
+- Fake login para practicar Context
+- Fetch API con
+- Sistema de recomendaciones basado en IA
 
-Esta técnica se recomienda cuando son proyectos más grandes
+## 🛠 Tecnologías Utilizadas
+
+- **Vite** con JavaScript
+- **Axios** para consumo de API
+- **TailwindCSS V4.0** para estilos
+
+## 🚀 Instalación y Configuración
+
+```bash
+git clone https://github.com/saac08/my-states-management.git
+cd my-states-management
+npm install
+npm run dev
+```
