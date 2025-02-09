@@ -5,8 +5,8 @@ Aplicación para poder probar, implementar nuevas cosas, y echar a perder aprend
 ## ✨ Características
 
 - Fake login para practicar Context
-- Fetch API con
-- Sistema de recomendaciones basado en IA
+- Fetch API con la API de https://jsonplaceholder.typicode.com/posts/
+- Uso mínimo de Tailwind para estilos básicos
 
 ## 🛠 Tecnologías Utilizadas
 
